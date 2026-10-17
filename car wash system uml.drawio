@@ -14,6 +14,7 @@
             <mxGeometry height="213.27" width="422.12" x="572.28" y="30" as="geometry" />
           </mxCell>
         </UserObject>
+![image alt](https://github.com/rogerdeprogrammer/UML-design-/blob/93569f18e4acad7d152b7ee06bad3d1c31fcae04/image%20file.png)
         <UserObject label="Customer" plantUmlId="cls_4" plantUmlBaseStyle="swimlane;collapsible=0;fontStyle=0;align=center;fontSize=14;fontColor=#000000;startSize=32;spacingLeft=25;fillColor=#FFFFFF;strokeColor=#1E40AF;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;stackSpacing=0;marginTop=5.5;shadow=1;swimlaneFillColor=#FFFFFF;" plantUmlBaseValue="Customer" id="PK1I1nYqJ0CmSjT_beyz-3">
           <mxCell parent="PK1I1nYqJ0CmSjT_beyz-2" style="swimlane;collapsible=0;fontStyle=0;align=center;fontSize=14;fontColor=#000000;startSize=32;spacingLeft=25;fillColor=#FFFFFF;strokeColor=#1E40AF;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;stackSpacing=0;marginTop=5.5;shadow=1;swimlaneFillColor=#FFFFFF;" vertex="1">
             <mxGeometry height="149" width="167.43" x="20" y="35" as="geometry" />
